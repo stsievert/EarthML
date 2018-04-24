@@ -1,0 +1,11 @@
+***************************
+landsat spectral clustering
+***************************
+
+.. notebook:: EarthML ../../examples/topics/landsat_spectral_clustering.ipynb
+    :offset: 0
+
+
+-------
+
+`Right click to download this notebook from GitHub. <https://raw.githubusercontent.com/pyviz-topics/EarthML/master/examples/topics/landsat_spectral_clustering.ipynb>`_
